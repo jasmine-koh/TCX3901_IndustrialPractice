@@ -3,8 +3,16 @@ venv/
 
 # Ignore raw data files (large CSVs)
 data/
-*.csv
 
 # Ignore Jupyter Notebook checkpoints & OS metadata
 .ipynb_checkpoints/
 .DS_Store
+
+# Ignore VS Code
+.vscode/
+
+# Ignore Reports
+reports/
+
+# Ignore images for reports
+report_images/
